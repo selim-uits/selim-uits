@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim Mia</h1>
-<h3 align="center">My name is Selim. I Have 2 years of experience in creating professional web design and data research and keyword research.</h3>
+<h3 align="center">My name is selim. I have 2 years of experience creating professional web design and Development PHP With Laravel Framework. Client satisfaction is my main goal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selim-mia&label=Profile%20views&color=0e75b6&style=flat" alt="selim-mia" /> </p>
 
