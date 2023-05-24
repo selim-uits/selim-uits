@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/selim.ahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selim.ahmed10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/selim.mia86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim.mia86" height="30" width="40" /></a>
-<a href="https://fb.com/selim.mia86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="selim.mia86" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/selim-uits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim.mia86" height="30" width="40" /></a>
+<a href="https://fb.com/selim.uits86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="selim.mia86" height="30" width="40" /></a>
 <a href="https://instagram.com/selim.ahmed86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selim.ahmed86" height="30" width="40" /></a>
 </p>
 
